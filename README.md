@@ -1,4 +1,4 @@
-## Cvicenie 2
+## Cvicenie 2 (01.10.2026)
 
 ![1.png](src/main/resources/photo_lessons/2/1.png)
 ![2.png](src/main/resources/photo_lessons/2/2.png)
